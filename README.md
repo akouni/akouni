@@ -17,7 +17,7 @@ Applied mathematician and software engineer building tools at the intersection o
 
 | | |
 |---|---|
-| [**Altius Rebus**](https://github.com/Altius-rebus-SARL) | Data science & software consulting — Senegal |
+| [**Altius Rebus**](https://github.com/Altius-rebus-SARL) | Data science & software consulting — Switzerland |
 | [**Altius Academy**](https://github.com/Altius-Academy-SNC) | Open-source Django packages — Switzerland |
 | [**WereSolution**](https://github.com/WereSolution) | Tech solutions — Mali |
 
@@ -31,11 +31,20 @@ Applied mathematician and software engineer building tools at the intersection o
 
 | Package | Description | Docs |
 |---|---|---|
-| [**yoro**](https://pypi.org/project/yoro/) | Address encoding system — compact geographic codes via Hilbert curves | |
-| [**yoro-maps**](https://pypi.org/project/yoro-maps/) | Interactive map widgets for Django with Yoro grid overlay | |
-| [**django-devicehub**](https://pypi.org/project/django-devicehub/) | IoT device management for Django — MQTT, sensors, telemetry | |
-| [**django-d3-bridge**](https://pypi.org/project/django-d3-bridge/) | Bridge between Django and D3.js for data visualizations | |
+| [**yoro**](https://pypi.org/project/yoro/) | Geographic addressing via Hilbert curves — GPS to compact alphanumeric codes | [Docs](https://altius-academy-snc.github.io/yoro/) |
+| [**yoro-maps**](https://pypi.org/project/yoro-maps/) | Offline maps, routing, and POI for Africa — country-specific SQLite databases | [Docs](https://altius-academy-snc.github.io/yoro-maps/) |
+| [**django-devicehub**](https://pypi.org/project/django-devicehub/) | Declarative IoT device management for Django — MQTT 5.0, sensors, telemetry | [Docs](https://altius-academy-snc.github.io/django-devicehub/) |
+| [**django-d3-bridge**](https://pypi.org/project/django-d3-bridge/) | Bridge between Django and D3.js for data visualizations | [Docs](https://altius-academy-snc.github.io/django-d3-bridge/) |
 | [**django-traduire**](https://pypi.org/project/django-traduire/) | Django model translation with admin integration | [Docs](https://altius-academy-snc.github.io/django-traduire/) |
+
+### Projects
+
+| | |
+|---|---|
+| [**AltiusOne**](https://altiusone.ch/fr/telechargement/) | Business management platform — desktop downloads |
+| [**AltiusOne Mobile**](https://play.google.com/store/apps/details?id=com.altiusone.mobile) | Mobile app — [Android](https://play.google.com/store/apps/details?id=com.altiusone.mobile) / [iOS](https://apps.apple.com/ch/app/altiusone/id6760343031?l=fr-FR) |
+| [**OpenData**](https://opendata.altius-group.ch/) | Open data platform by Altius Group |
+| [**PaperPoint**](https://paper-point.ch/en/) | Digital document management solution |
 
 ### Tech Stack
 
